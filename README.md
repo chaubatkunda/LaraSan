@@ -1,4 +1,4 @@
-# Esample Project API Laravel Sanctum
+# Example Project API Laravel Sanctum
 
 ## Packege
 
@@ -17,6 +17,7 @@ composer install
 php artisan key:generate
 php artisan migrate
 php db:seed
+php artisan serve
 ```
 
 `email : admin@admin.com`
